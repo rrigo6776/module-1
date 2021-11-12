@@ -20,7 +20,7 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header .seo {
     color: #d9dcd6;
 }
 
@@ -164,6 +164,11 @@ p {
 .search-engine-optimization img {
     max-height: 200px;
 }
+}
+
+.search-engine-optimization img {
+    max-height: 200px;
+}
 
 .online-reputation-management img {
     max-height: 200px;
@@ -197,4 +202,32 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+
+.search {
+    color: #d9dcd6
+}
+
+#search-engine-optimization {
+    color: #d9dcd6
+}
+
+#online-reputation-management {
+    color: #d9dcd6
+}
+
+#social-media-marketing {
+    color: #d9dcd6
+}
+
+.benefit-brand {
+    color: #d9dcd6
+}
+
+.benefit-cost {
+    color: #d9dcd6
+}
+
+.benefit-lead {
+    color: #d9dcd6
 }
